@@ -1,8 +1,8 @@
 # Landing Page
 
-This is a HTML and CSS - Landing Page using Bootstrap. I have tried to design the webpage as the wireframe given below.
+This is a HTML and CSS - Landing Page using Bootstrap. I have tried to design the webpage as the wireframe. The wireframe is stored as `wireframe.png` in the repository
 
-![About Us](D:\ayush\DOWNLOADS\About Us.png)
+
 
 
 
