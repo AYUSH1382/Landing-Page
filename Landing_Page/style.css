@@ -1,0 +1,38 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.jumbotron{
+	justify-content: center;
+	text-align: center;
+	background-color: #D6E2E9;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#jk{
+  fill: #4A4E69;
+}
+
+
+.contact-details {
+				align-items: center;
+				font-size: 1rem;
+				text-shadow: 2px 2px 1px #1f1f1f;
+				transition: transform 0.3s ease-out;
+			}
+			
+			.contact-details:hover {
+				transform: translateY(8px);
+				text-decoration: underline;
+			}
+
+
+.page-footer {
+	position: sticky;
+    flex-shrink: 0;
+}
